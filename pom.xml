@@ -73,11 +73,4 @@
     </pluginManagement>
   </build>
   
-    <distributionManagement>
-    <repository>
-      <id>internal.repo</id>
-      <name>artifact</name>
-      <url>https://github.com/mimookies/bamboo</url>
-    </repository>
-  </distributionManagement>
 </project>
